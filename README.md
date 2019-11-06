@@ -12,5 +12,10 @@ macOS Catalina, Unity 2019.1.14f1, developed for Oculus Quest, Resolution 1280 b
     Planet Earth Free
     Wooden Floor Pack
     TileableBricksWall
-    
+
+#Updates
+
+06-11-2019
+
+The Unity Project has been optimised for the usage with the oculs quest. You can start the Game, but you can't see anything. I think, that there is an error with the player.
     
