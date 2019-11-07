@@ -1,4 +1,4 @@
-# Endporject-5AHMNM
+# Endproject-5AHMNM
 
 #Project Description
 
@@ -19,3 +19,4 @@ macOS Catalina, Unity 2019.1.14f1, developed for Oculus Quest, Resolution 1280 b
 
 The Unity Project has been optimised for the usage with the oculs quest. You can start the Game, but you can't see anything. I think, that there is an error with the player.
     
+After trying to locate the error, I wasn't able to fix any. So, it's still booting, but you can't see anything.
